@@ -1,0 +1,23 @@
+{
+    "username": "Danyl" ,
+    "profile": { 
+        "name": "Amed",
+        "lastName": "Limas",
+        "email": "amedlimas@yahoo.com",
+        "password": "xxxx.123", 
+        "phone": "61455529812",
+        "birthday": "021202",
+        "address": {
+            "street": "Chancla",
+            "city": "Chihuahua",
+            "state": "Chihuahua",
+            "zipcode": "31000"
+        },
+        "gender": "masculino",
+        "maritalStatus": "soltero", 
+        "profileImg": "dany_img",
+        "degree": "Licencitura",
+        "roles": "admin"
+     },
+    "terms": true
+}
